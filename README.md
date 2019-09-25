@@ -30,7 +30,7 @@ input으로 int[] cook_times, int[][] order, int k가 들어온다
 
 input으로 들어오는 각 음식의 조리시간과 선행관계들은 한번 읽어와 변수에 저장한다. 이를 위한 Cook 클래스를 두어 각 음식에 대한 정보를 이용할 수 있게 하였다.
 
-```
+```java
 class Cook {
   int id;
   int cookTime;
